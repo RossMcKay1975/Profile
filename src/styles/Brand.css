@@ -1,40 +1,77 @@
 .grid-container { 
     display: grid;
-    background-color: #555;
+    /* background-color: #555; */
     color: white;
-    border-color: black;
-    border-bottom-style: inset;
-    border-width: 1px;
+    width: 90%;
+    margin: 25px;
+
 }
 
 .one { 
     grid-column: 1;
     grid-row: 1;
+    border: 5px solid black;
+    border-color: black;
+    height: 200px;
+    border-radius: 100px;
+    margin: 25px;
+    width: 100%;
+    background-color: #555;
+    height: 75px; 
+
 }
 
 .two {
     grid-column: 2;
-    grid-row: 1;  
-
+    grid-row: 1;
+    border: 5px solid black;
+    border-color: black; 
+    height: 200px;
+    border-radius: 100px;
+    margin: 25px; 
+    width: 40%; 
+    height: 75px; 
+    align-items: center;
 }
 
 .three { 
     grid-column: 3;
     grid-row: 1;
+    border: 5px solid black;
+    border-color: black;
+    height: 200px;
+    border-radius: 100px;
+    margin: 25px;
 }
 
 .four {
     grid-column: 1; 
     grid-row: 2; 
+    border: 5px solid black;
+    border-color: black;
+    height: 200px;
+    border-radius: 100px;
+    margin: 25px;
 }
 
 .five { 
     grid-column: 2; 
-    grid-row: 2; 
+    grid-row: 2;
+    border: 5px solid black;
+    border-color: black; 
+    height: 200px;
+    border-radius: 100px;
+    margin: 25px;
 }
 
 .six { 
     grid-column: 3; 
-    grid-row: 2; 
+    grid-row: 2;
+    border: 5px solid black;
+    border-color: black; 
+    height: 200px;
+    border-radius: 100px;
+    margin: 25px;
+
 }
 
