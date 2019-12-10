@@ -7,12 +7,12 @@ class Brand extends Component {
         return (
                 
                 <div className="grid-container">
-                        <div className="grid-item one"> 1</div>  
-                        <div className="grid-item two"> 2</div>
-                        <div className="grid-item three"> 3</div>
-                        <div className="grid-item four"> 4</div>
-                        <div className="grid-item five"> 5</div>
-                        <div className="grid-item six"> 6</div>  
+                        <div className="grid-item one"> </div>  
+                        <div className="grid-item two"> </div>
+                        <div className="grid-item three"> </div>
+                        <div className="grid-item four"> </div>
+                        <div className="grid-item five"> </div>
+                        <div className="grid-item six"> https://github.com/RossMcKay1975</div>  
                 </div>
 
         )
